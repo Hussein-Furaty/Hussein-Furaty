@@ -1,97 +1,118 @@
-# Hussein Habeeb
+<div align="center">
 
-Cybersecurity Engineer • Artificial Intelligence • Laravel Developer
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Hussein.A.Habeeb&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Cybersecurity%20Specialist%20%7C%20Full-Stack%20Developer%20%7C%20IT%20Team%20Lead&descAlignY=58&descSize=18" width="100%"/>
 
-I am interested in cybersecurity, artificial intelligence, and backend development. My GitHub contains personal projects, research implementations, and open-source contributions related to secure software development and machine learning.
+<br>
 
----
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=26&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=800&lines=Cybersecurity+Specialist;Full-Stack+%26+Windows+%26+Mobile+Developer;Server+%26+Network+Administrator;Technical+Team+Lead+%26+IT+Trainer" alt="Typing SVG" />
 
-## Research Interests
+<br><br>
 
-- Cybersecurity
-- Artificial Intelligence
-- Machine Learning
-- Secure Software Development
-- Network Security
-- Backend Engineering
+📍 Al-Musayib, Babylon, Iraq &nbsp;|&nbsp; 🏢 Crow-Developers &nbsp;|&nbsp; he/him
 
----
+<br>
 
-## Technical Skills
+[![Followers](https://img.shields.io/github/followers/Hussein-Furaty?style=flat-square&label=Followers&color=58A6FF&labelColor=0d1117)](https://github.com/Hussein-Furaty?tab=followers)
 
-**Programming Languages**
+</div>
 
-- Python
-- PHP
-- C++
-- Java
-- JavaScript
+<br>
 
-**Frameworks**
+<div align="center">
 
-- Laravel
-- Flask
+### *"One who lives forever, kills their own legacy."*
 
-**Machine Learning**
+</div>
 
-- Scikit-learn
-- TensorFlow
-- Pandas
-- NumPy
+<br>
 
-**Databases**
+## About Me
 
-- MySQL
-- SQLite
+- 🛡️ Cybersecurity specialist focused on building secure, resilient systems
+- 💻 Full-stack developer — web, Windows desktop, and mobile applications
+- 🌐 Server & network infrastructure administrator
+- 👨‍💼 Leading a technical development team
+- 🎓 IT trainer, helping others grow into the field
 
-**Tools**
+<br>
 
-- Git
-- Linux
-- Docker
-- VS Code
+## Tech Stack
 
----
+**Languages**
 
-## Selected Projects
+<div align="center">
+<img src="https://skillicons.dev/icons?i=cpp,java,js,python,ruby,rust" />
+</div>
 
-### AI Medical Assistant
+**Frameworks & Tools**
 
-An AI-assisted web application that analyzes medical reports and blood test results, provides simplified explanations, and summarizes clinical findings.
+<div align="center">
+<img src="https://skillicons.dev/icons?i=dotnet,laravel,spring,nodejs,docker" />
+</div>
 
-### AI-based Image Steganography
+<sub align="center">Also working with: ColdFusion</sub>
 
-Research-oriented implementation of deep learning techniques for secure image steganography.
+<br>
 
-### KNN Traffic Classification
+## GitHub Stats
 
-Machine learning project for classifying network traffic using K-Nearest Neighbors.
+<div align="center">
 
-### Laravel Applications
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Hussein-Furaty&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&count_private=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hussein-Furaty&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF&langs_count=8" />
 
-Backend applications developed using Laravel following modern software engineering practices.
+<br>
 
----
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Hussein-Furaty&theme=tokyonight&hide_border=true&background=0d1117&stroke=58A6FF&ring=58A6FF&fire=1f6feb&currStreakLabel=58A6FF" />
 
-## Current Focus
+</div>
 
-- AI-powered applications
-- Cybersecurity research
-- Laravel development
-- Open-source software
+## Trophies
 
----
+<div align="center">
 
-## Publications
+<img src="https://github-profile-trophy.vercel.app/?username=Hussein-Furaty&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8" />
 
-Research papers and future publications will be listed here.
+</div>
 
----
+<br>
 
-## Contact
+## Contribution Snake
 
-GitHub:
-https://github.com/Hussein-Furaty
+<div align="center">
 
-LinkedIn:
-https://www.linkedin.com/in/hussein-habeeb-93965b414
+<img src="https://raw.githubusercontent.com/Hussein-Furaty/Hussein-Furaty/output/github-contribution-grid-snake-dark.svg" width="100%" alt="snake animation"/>
+
+<sub>To activate this animation automatically, add the <code>snk</code> GitHub Action to the <code>Hussein-Furaty/Hussein-Furaty</code> repo — let me know if you'd like the workflow file.</sub>
+
+</div>
+
+<br>
+
+## Connect With Me
+
+<div align="center">
+
+<a href="mailto:hussein.a.habeeb.sec@gmail.com"><img src="https://cdn.simpleicons.org/gmail/D14836" width="42" height="42" /></a>
+&nbsp;&nbsp;
+<a href="https://t.me/P_Hussein"><img src="https://cdn.simpleicons.org/telegram/26A5E4" width="42" height="42" /></a>
+&nbsp;&nbsp;
+<a href="https://linkedin.com/in/hussein-habeeb-93965b414"><img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="42" height="42" /></a>
+&nbsp;&nbsp;
+<a href="https://www.instagram.com/prof_hussen"><img src="https://cdn.simpleicons.org/instagram/E4405F" width="42" height="42" /></a>
+&nbsp;&nbsp;
+<a href="https://orcid.org/0009-0008-3587-9445"><img src="https://cdn.simpleicons.org/orcid/A6CE39" width="42" height="42" /></a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+![Visitor Count](https://komarev.com/ghpvc/?username=Hussein-Furaty&label=Profile%20Views&color=58A6FF&style=flat-square)
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" width="100%"/>
+
+</div>
