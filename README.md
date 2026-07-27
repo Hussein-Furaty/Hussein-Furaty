@@ -5,15 +5,8 @@
 📍 Al-Musayib, Babylon, Iraq &nbsp;|&nbsp; 🏢 Crow-Developers &nbsp;|&nbsp; he/him
 
 [![Followers](https://img.shields.io/github/followers/Hussein-Furaty?style=flat-square&label=Followers&color=58A6FF&labelColor=0d1117)](https://github.com/Hussein-Furaty?tab=followers)
-
-<br>
-
 ### *"One who lives forever, kills their own legacy."*
-
 </div>
-
-<br>
-
 ## About Me
 
 - 🛡️ Cybersecurity specialist focused on building secure, resilient systems
