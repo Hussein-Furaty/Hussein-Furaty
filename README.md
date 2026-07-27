@@ -6,6 +6,7 @@
 
 [![Followers](https://img.shields.io/github/followers/Hussein-Furaty?style=flat-square&label=Followers&color=58A6FF&labelColor=0d1117)](https://github.com/Hussein-Furaty?tab=followers)
 ### *"One who lives forever, kills their own legacy."*
+<br>
 </div>
 ## About Me
 
