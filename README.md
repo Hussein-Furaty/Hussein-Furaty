@@ -2,11 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Hussein.A.Habeeb&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Cybersecurity%20Specialist%20%7C%20Full-Stack%20Developer%20%7C%20IT%20Team%20Lead&descAlignY=58&descSize=17" width="100%"/>
 
-<br>
-
 📍 Al-Musayib, Babylon, Iraq &nbsp;|&nbsp; 🏢 Crow-Developers &nbsp;|&nbsp; he/him
-
-<br>
 
 [![Followers](https://img.shields.io/github/followers/Hussein-Furaty?style=flat-square&label=Followers&color=58A6FF&labelColor=0d1117)](https://github.com/Hussein-Furaty?tab=followers)
 
