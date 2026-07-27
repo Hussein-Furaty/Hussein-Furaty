@@ -66,17 +66,15 @@
 
 </div>
 
-## Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Hussein-Furaty&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8" />
-
-</div>
 
 <br>
 
 ## Contribution Activity
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Hussein-Furaty&theme=react-dark&bg_color=0d1117&color=58A6FF&line=58A6FF&point=ffffff&area=true&hide_border=true" width="100%"/>
+
+</div>
 
 
 <br>
