@@ -3,7 +3,6 @@
 <picture>
   <img src="./assets/banner_dark.svg" alt="Hussein.A.Habeeb banner" width="100%"/>
 </picture>
-[![Followers](https://img.shields.io/github/followers/Hussein-Furaty?style=flat-square&label=Followers&color=22D3EE&labelColor=0A101F)](https://github.com/Hussein-Furaty?tab=followers)
 ### *"One who lives forever, kills their own legacy."*
 </div>
 ## Contribution Snake
