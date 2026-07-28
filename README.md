@@ -8,54 +8,43 @@
 
 </div>
 
-<br clear="both"/>
+<br>
 
-## &nbsp;🛡️&nbsp; About Me
+## About Me
 
-<table>
+- Cybersecurity specialist focused on building secure, resilient systems
+- Full-stack developer — web, Windows desktop, and mobile applications
+- Server & network infrastructure administrator
+- Working on Machine Learning & AI-driven security and research tools
+- Leading a technical development team — **Crow-Developers**
+- IT trainer, helping others grow into the field
+
+<br>
+
+## Tech Stack
+
+<table align="center">
 <tr>
-<td>
-
-- 🛡️&nbsp; Cybersecurity specialist focused on building secure, resilient systems
-- 💻&nbsp; Full-stack developer — web, Windows desktop, and mobile applications
-- 🌐&nbsp; Server & network infrastructure administrator
-- 🤖&nbsp; Working on Machine Learning & AI-driven security and research tools
-- 👨‍💼&nbsp; Leading a technical development team — **Crow-Developers**
-- 🎓&nbsp; IT trainer, helping others grow into the field
-
-</td>
+<td align="right"><sub><b>Languages</b></sub></td>
+<td><img src="https://skillicons.dev/icons?i=cpp,java,js,python,ruby,rust" /></td>
+</tr>
+<tr>
+<td align="right"><sub><b>Frameworks</b></sub></td>
+<td><img src="https://skillicons.dev/icons?i=dotnet,laravel,spring,nodejs,docker" /></td>
+</tr>
+<tr>
+<td align="right"><sub><b>AI / ML</b></sub></td>
+<td><img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" /></td>
+</tr>
+<tr>
+<td align="right"><sub><b>Also using</b></sub></td>
+<td><sub>ColdFusion</sub></td>
 </tr>
 </table>
 
 <br>
 
-## &nbsp;🧰&nbsp; Tech Stack
-
-<table align="center" border="0">
-<tr><td align="center">
-
-<sub><b>LANGUAGES</b></sub><br>
-<img src="https://skillicons.dev/icons?i=cpp,java,js,python,ruby,rust" />
-
-</td></tr>
-<tr><td align="center">
-
-<sub><b>FRAMEWORKS &amp; TOOLS</b></sub><br>
-<img src="https://skillicons.dev/icons?i=dotnet,laravel,spring,nodejs,docker" /><br>
-<sub>Also working with: ColdFusion</sub>
-
-</td></tr>
-<tr><td align="center">
-
-<sub><b>MACHINE LEARNING &amp; AI</b></sub><br>
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" />
-
-</td></tr>
-</table>
-
-<br>
-
-## &nbsp;📊&nbsp; GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -70,17 +59,15 @@
 
 <br>
 
-## &nbsp;📈&nbsp; Contribution Activity
+## Contribution Activity
 
 <div align="center">
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hussein-Furaty&theme=react-dark&bg_color=0A101F&color=22D3EE&line=22D3EE&point=ffffff&area=true&hide_border=true" width="100%"/>
-
 </div>
 
 <br>
 
-## &nbsp;🐍&nbsp; Contribution Snake
+## Contribution Snake
 
 <div align="center">
 <picture>
@@ -92,7 +79,7 @@
 
 <br>
 
-## &nbsp;🔗&nbsp; Connect With Me
+## Connect With Me
 
 <div align="center">
 
