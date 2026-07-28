@@ -1,44 +1,76 @@
 <div align="center">
 
 <picture>
-  <img src="./assets/banner_dark.svg" alt="Hussein.A.Habeeb banner" width="100%"/>
+  <img src="./assets/banner_dark.svg" alt="Hussein.A.Habeeb — animated banner" width="100%"/>
 </picture>
-### *"One who lives forever, kills their own legacy."*
-</div>
-## Contribution Snake
-<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hussein-Furaty/Hussein-Furaty/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Hussein-Furaty/Hussein-Furaty/output/github-contribution-grid-snake.svg" />
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/Hussein-Furaty/Hussein-Furaty/output/github-contribution-grid-snake.svg" width="100%"/>
-</picture>
+
+<sub>*"One who lives forever, kills their own legacy."*</sub>
+
 </div>
 
+<br clear="both"/>
+
+## &nbsp;🛡️&nbsp; About Me
+
+<table>
+<tr>
+<td>
+
+- 🛡️&nbsp; Cybersecurity specialist focused on building secure, resilient systems
+- 💻&nbsp; Full-stack developer — web, Windows desktop, and mobile applications
+- 🌐&nbsp; Server & network infrastructure administrator
+- 🤖&nbsp; Working on Machine Learning & AI-driven security and research tools
+- 👨‍💼&nbsp; Leading a technical development team — **Crow-Developers**
+- 🎓&nbsp; IT trainer, helping others grow into the field
+
+</td>
+</tr>
+</table>
+
 <br>
-## Tech Stack
-**Languages**
-<div align="center">
+
+## &nbsp;🧰&nbsp; Tech Stack
+
+<table align="center" border="0">
+<tr><td align="center">
+
+<sub><b>LANGUAGES</b></sub><br>
 <img src="https://skillicons.dev/icons?i=cpp,java,js,python,ruby,rust" />
-</div>
-**Frameworks & Tools**
-<div align="center">
-<img src="https://skillicons.dev/icons?i=dotnet,laravel,spring,nodejs,docker" />
-</div>
-<div align="center"><sub>Also working with: ColdFusion</sub></div>
-**Machine Learning & AI**
-<div align="center">
+
+</td></tr>
+<tr><td align="center">
+
+<sub><b>FRAMEWORKS &amp; TOOLS</b></sub><br>
+<img src="https://skillicons.dev/icons?i=dotnet,laravel,spring,nodejs,docker" /><br>
+<sub>Also working with: ColdFusion</sub>
+
+</td></tr>
+<tr><td align="center">
+
+<sub><b>MACHINE LEARNING &amp; AI</b></sub><br>
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" />
-</div>
+
+</td></tr>
+</table>
+
 <br>
-## GitHub Stats
+
+## &nbsp;📊&nbsp; GitHub Stats
+
 <div align="center">
+
 <img height="165" src="https://github-readme-stats-seven-lac-90.vercel.app/api?username=Hussein-Furaty&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0A101F&title_color=22D3EE&icon_color=22D3EE&text_color=C9D1E0&hide_rank=true" />
 <img height="165" src="https://github-readme-stats-seven-lac-90.vercel.app/api/top-langs/?username=Hussein-Furaty&layout=compact&theme=tokyonight&hide_border=true&bg_color=0A101F&title_color=22D3EE&langs_count=8" />
+
 <br>
+
 <img src="https://streak-stats.demolab.com/?user=Hussein-Furaty&theme=tokyonight&hide_border=true&background=0A101F&stroke=22D3EE&ring=A78BFA&fire=10B981&currStreakLabel=22D3EE" />
+
 </div>
 
-## Contribution Activity
+<br>
+
+## &nbsp;📈&nbsp; Contribution Activity
 
 <div align="center">
 
@@ -48,19 +80,31 @@
 
 <br>
 
-## Connect With Me
+## &nbsp;🐍&nbsp; Contribution Snake
+
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hussein-Furaty/Hussein-Furaty/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Hussein-Furaty/Hussein-Furaty/output/github-contribution-grid-snake.svg" />
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/Hussein-Furaty/Hussein-Furaty/output/github-contribution-grid-snake.svg" width="100%"/>
+</picture>
+</div>
+
+<br>
+
+## &nbsp;🔗&nbsp; Connect With Me
 
 <div align="center">
 
-<a href="mailto:hussein.a.habeeb.sec@gmail.com"><img src="https://cdn.simpleicons.org/gmail/D14836" width="42" height="42" /></a>
-&nbsp;&nbsp;
-<a href="https://t.me/P_Hussein"><img src="https://cdn.simpleicons.org/telegram/26A5E4" width="42" height="42" /></a>
-&nbsp;&nbsp;
-<a href="https://linkedin.com/in/hussein-habeeb-93965b414"><img src="https://img.icons8.com/fluency/48/linkedin.png" width="42" height="42" /></a>
-&nbsp;&nbsp;
-<a href="https://www.instagram.com/prof_hussen"><img src="https://cdn.simpleicons.org/instagram/E4405F" width="42" height="42" /></a>
-&nbsp;&nbsp;
-<a href="https://orcid.org/0009-0008-3587-9445"><img src="https://cdn.simpleicons.org/orcid/A6CE39" width="42" height="42" /></a>
+<a href="mailto:hussein.a.habeeb.sec@gmail.com"><img src="https://cdn.simpleicons.org/gmail/D14836" width="40" height="40" /></a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://t.me/P_Hussein"><img src="https://cdn.simpleicons.org/telegram/26A5E4" width="40" height="40" /></a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://linkedin.com/in/hussein-habeeb-93965b414"><img src="https://img.icons8.com/fluency/48/linkedin.png" width="40" height="40" /></a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://www.instagram.com/prof_hussen"><img src="https://cdn.simpleicons.org/instagram/E4405F" width="40" height="40" /></a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://orcid.org/0009-0008-3587-9445"><img src="https://cdn.simpleicons.org/orcid/A6CE39" width="40" height="40" /></a>
 
 </div>
 
@@ -68,7 +112,7 @@
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=Hussein-Furaty&label=Profile%20Views&color=22D3EE&style=flat-square)
+<img src="https://komarev.com/ghpvc/?username=Hussein-Furaty&label=Profile%20Views&color=22D3EE&style=flat-square" alt="Profile Views"/>
 
 <br><br>
 
