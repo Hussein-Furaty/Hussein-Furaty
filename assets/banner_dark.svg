@@ -1011,60 +1011,60 @@
 <circle cx="224.0" cy="331.0" r="1.5" fill="#22D3EE" opacity="0"><animateTransform attributeName="transform" type="translate" values="-98.60,57.32;-98.60,57.32;-98.60,57.32;-98.60,57.32;-113.51,98.40;-113.51,98.40;-73.09,72.94;-73.09,72.94;-101.96,94.91;-101.96,94.91;-76.98,46.48;-76.98,46.48;-77.97,48.38;-77.97,48.38;-101.47,4.41;-101.47,4.41;-98.60,57.32" keyTimes="0.0000;0.2041;0.2449;0.3061;0.3469;0.4082;0.4490;0.5102;0.5510;0.6122;0.6531;0.7143;0.7551;0.8163;0.8571;0.8776;1.0000" dur="14.700000000000001s" begin="0s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.2041;0.2449;0.8776;1" dur="14.700000000000001s" begin="0s" repeatCount="indefinite"/></circle>
 <circle cx="224.0" cy="331.0" r="1.5" fill="#22D3EE" opacity="0"><animateTransform attributeName="transform" type="translate" values="-26.71,-111.84;-26.71,-111.84;-26.71,-111.84;-26.71,-111.84;-34.99,-111.42;-34.99,-111.42;-6.44,-103.21;-6.44,-103.21;-41.77,-140.13;-41.77,-140.13;-36.34,-64.01;-36.34,-64.01;-48.09,-105.31;-48.09,-105.31;-29.41,-34.51;-29.41,-34.51;-26.71,-111.84" keyTimes="0.0000;0.2041;0.2449;0.3061;0.3469;0.4082;0.4490;0.5102;0.5510;0.6122;0.6531;0.7143;0.7551;0.8163;0.8571;0.8776;1.0000" dur="14.700000000000001s" begin="0s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.2041;0.2449;0.8776;1" dur="14.700000000000001s" begin="0s" repeatCount="indefinite"/></circle>
 
-  <text x="470" y="82" font-size="13" fill="#22D3EE" letter-spacing="2" font-weight="600">SYSTEM.INFO</text>
+  <text x="1158" y="82" text-anchor="end" font-size="14.5" fill="#22D3EE" letter-spacing="2" font-weight="600">SYSTEM.INFO</text>
 <line x1="470" y1="90" x2="1158" y2="90" stroke="#0891B2" stroke-opacity="0.35"/>
-<text x="470" y="108" font-size="14" fill="#5B6478">Subject</text>
-<text x="512.5" y="108" font-size="14" fill="#0891B2" fill-opacity="0.5" letter-spacing="4">.............................................................................................</text>
-<text x="1158.0" y="108" text-anchor="end" font-size="14" fill="#C9D1E0" textLength="80.6" lengthAdjust="spacingAndGlyphs">Hussein.A.Habeeb</text>
-<text x="470" y="131" font-size="14" fill="#5B6478">Role</text>
-<text x="496.8" y="131" font-size="14" fill="#0891B2" fill-opacity="0.5" letter-spacing="4">.........................................................................................</text>
-<text x="1158.0" y="131" text-anchor="end" font-size="14" fill="#C9D1E0" textLength="121.0" lengthAdjust="spacingAndGlyphs">Cybersecurity Specialist</text>
-<text x="470" y="154" font-size="14" fill="#5B6478">Origin</text>
-<text x="507.2" y="154" font-size="14" fill="#0891B2" fill-opacity="0.5" letter-spacing="4">........................................................................................</text>
-<text x="1158.0" y="154" text-anchor="end" font-size="14" fill="#C9D1E0" textLength="115.9" lengthAdjust="spacingAndGlyphs">Al-Musayib, Babylon, IQ</text>
-<text x="470" y="177" font-size="14" fill="#5B6478">Education</text>
-<text x="522.9" y="177" font-size="14" fill="#0891B2" fill-opacity="0.5" letter-spacing="4">...............................................................................</text>
-<text x="1158.0" y="177" text-anchor="end" font-size="14" fill="#C9D1E0" textLength="151.2" lengthAdjust="spacingAndGlyphs">InfoSec @ Univ. of Babylon '26</text>
-<text x="470" y="200" font-size="14" fill="#5B6478">Status</text>
-<text x="507.2" y="200" font-size="14" fill="#0891B2" fill-opacity="0.5" letter-spacing="4">..................................................................................</text>
-<text x="1158.0" y="200" text-anchor="end" font-size="14" fill="#C9D1E0" textLength="151.2" lengthAdjust="spacingAndGlyphs">Securing + Building + Training</text>
-<text x="470" y="223" font-size="14" fill="#5B6478">ToolChain</text>
-<text x="522.9" y="223" font-size="14" fill="#0891B2" fill-opacity="0.5" letter-spacing="4">.............................................................................</text>
-<text x="1158.0" y="223" text-anchor="end" font-size="14" fill="#C9D1E0" textLength="166.3" lengthAdjust="spacingAndGlyphs">Git · VSCode · Wireshark · Docker</text>
-  <text x="470" y="260" font-size="13" fill="#22D3EE" letter-spacing="2" font-weight="600">STACK</text>
-<line x1="470" y1="268" x2="1158" y2="268" stroke="#0891B2" stroke-opacity="0.35"/>
-<text x="470" y="286" font-size="14" fill="#5B6478">Core.Lang</text>
-<text x="522.9" y="286" font-size="14" fill="#0891B2" fill-opacity="0.5" letter-spacing="4">........................................................................</text>
-<text x="1158.0" y="286" text-anchor="end" font-size="14" fill="#C9D1E0" textLength="191.5" lengthAdjust="spacingAndGlyphs">C++ · Java · JS · Python · Ruby · Rust</text>
-<text x="470" y="309" font-size="14" fill="#5B6478">Core.Frontend</text>
-<text x="543.7" y="309" font-size="14" fill="#0891B2" fill-opacity="0.5" letter-spacing="4">................................................................................</text>
-<text x="1158.0" y="309" text-anchor="end" font-size="14" fill="#C9D1E0" textLength="126.0" lengthAdjust="spacingAndGlyphs">HTML5 · CSS3 · JavaScript</text>
-<text x="470" y="332" font-size="14" fill="#5B6478">Core.Backend</text>
-<text x="538.5" y="332" font-size="14" fill="#0891B2" fill-opacity="0.5" letter-spacing="4">...............................................................</text>
-<text x="1158.0" y="332" text-anchor="end" font-size="14" fill="#C9D1E0" textLength="231.8" lengthAdjust="spacingAndGlyphs">ASP.NET · Laravel · Spring · ColdFusion · Node</text>
-<text x="470" y="355" font-size="14" fill="#5B6478">Core.Database</text>
-<text x="543.7" y="355" font-size="14" fill="#0891B2" fill-opacity="0.5" letter-spacing="4">........................................................................................</text>
-<text x="1158.0" y="355" text-anchor="end" font-size="14" fill="#C9D1E0" textLength="75.6" lengthAdjust="spacingAndGlyphs">MySQL · MongoDB</text>
-<text x="470" y="378" font-size="14" fill="#5B6478">Core.Infra</text>
-<text x="528.1" y="378" font-size="14" fill="#0891B2" fill-opacity="0.5" letter-spacing="4">..................................................................................................</text>
-<text x="1158.0" y="378" text-anchor="end" font-size="14" fill="#C9D1E0" textLength="30.2" lengthAdjust="spacingAndGlyphs">Docker</text>
-  <text x="470" y="415" font-size="13" fill="#22D3EE" letter-spacing="2" font-weight="600">CONTACT.GRID</text>
-<line x1="470" y1="423" x2="1158" y2="423" stroke="#0891B2" stroke-opacity="0.35"/>
-<text x="470" y="441" font-size="14" fill="#5B6478">Grid.Mail</text>
-<text x="522.9" y="441" font-size="14" fill="#0891B2" fill-opacity="0.5" letter-spacing="4">...............................................................................</text>
-<text x="1158.0" y="441" text-anchor="end" font-size="14" fill="#C9D1E0" textLength="151.2" lengthAdjust="spacingAndGlyphs">hussein.a.habeeb.sec@gmail.com</text>
-<text x="470" y="464" font-size="14" fill="#5B6478">Grid.Portfolio</text>
-<text x="548.9" y="464" font-size="14" fill="#0891B2" fill-opacity="0.5" letter-spacing="4">...........................................................................................</text>
-<text x="1158.0" y="464" text-anchor="end" font-size="14" fill="#C9D1E0" textLength="55.4" lengthAdjust="spacingAndGlyphs">coming soon</text>
-<text x="470" y="487" font-size="14" fill="#5B6478">Grid.LinkedIn</text>
-<text x="543.7" y="487" font-size="14" fill="#0891B2" fill-opacity="0.5" letter-spacing="4">.............................................................................</text>
-<text x="1158.0" y="487" text-anchor="end" font-size="14" fill="#C9D1E0" textLength="141.1" lengthAdjust="spacingAndGlyphs">/in/hussein-habeeb-93965b414</text>
-<text x="470" y="510" font-size="14" fill="#5B6478">Grid.GitHub</text>
-<text x="533.3" y="510" font-size="14" fill="#0891B2" fill-opacity="0.5" letter-spacing="4">...........................................................................................</text>
-<text x="1158.0" y="510" text-anchor="end" font-size="14" fill="#C9D1E0" textLength="70.6" lengthAdjust="spacingAndGlyphs">Hussein-Furaty</text>
-<text x="470" y="533" font-size="14" fill="#5B6478">Grid.Facebook</text>
-<text x="543.7" y="533" font-size="14" fill="#0891B2" fill-opacity="0.5" letter-spacing="4">....................................................................................................</text>
-<text x="1158.0" y="533" text-anchor="end" font-size="14" fill="#C9D1E0" textLength="5.0" lengthAdjust="spacingAndGlyphs">—</text>
+<text x="470" y="106" font-size="16" fill="#C9D1E0" textLength="92.2" lengthAdjust="spacingAndGlyphs">Hussein.A.Habeeb</text>
+<text x="568.2" y="106" font-size="16" fill="#0891B2" fill-opacity="0.5" letter-spacing="4">..........................................................................................</text>
+<text x="1158" y="106" text-anchor="end" font-size="16" fill="#5B6478">Subject</text>
+<text x="470" y="128" font-size="16" fill="#C9D1E0" textLength="138.2" lengthAdjust="spacingAndGlyphs">Cybersecurity Specialist</text>
+<text x="614.2" y="128" font-size="16" fill="#0891B2" fill-opacity="0.5" letter-spacing="4">.....................................................................................</text>
+<text x="1158" y="128" text-anchor="end" font-size="16" fill="#5B6478">Role</text>
+<text x="470" y="150" font-size="16" fill="#C9D1E0" textLength="132.5" lengthAdjust="spacingAndGlyphs">Al-Musayib, Babylon, IQ</text>
+<text x="608.5" y="150" font-size="16" fill="#0891B2" fill-opacity="0.5" letter-spacing="4">....................................................................................</text>
+<text x="1158" y="150" text-anchor="end" font-size="16" fill="#5B6478">Origin</text>
+<text x="470" y="172" font-size="16" fill="#C9D1E0" textLength="172.8" lengthAdjust="spacingAndGlyphs">InfoSec @ Univ. of Babylon '26</text>
+<text x="648.8" y="172" font-size="16" fill="#0891B2" fill-opacity="0.5" letter-spacing="4">..........................................................................</text>
+<text x="1158" y="172" text-anchor="end" font-size="16" fill="#5B6478">Education</text>
+<text x="470" y="194" font-size="16" fill="#C9D1E0" textLength="172.8" lengthAdjust="spacingAndGlyphs">Securing + Building + Training</text>
+<text x="648.8" y="194" font-size="16" fill="#0891B2" fill-opacity="0.5" letter-spacing="4">.............................................................................</text>
+<text x="1158" y="194" text-anchor="end" font-size="16" fill="#5B6478">Status</text>
+<text x="470" y="216" font-size="16" fill="#C9D1E0" textLength="190.1" lengthAdjust="spacingAndGlyphs">Git · VSCode · Wireshark · Docker</text>
+<text x="666.1" y="216" font-size="16" fill="#0891B2" fill-opacity="0.5" letter-spacing="4">........................................................................</text>
+<text x="1158" y="216" text-anchor="end" font-size="16" fill="#5B6478">ToolChain</text>
+  <text x="1158" y="248" text-anchor="end" font-size="14.5" fill="#22D3EE" letter-spacing="2" font-weight="600">STACK</text>
+<line x1="470" y1="256" x2="1158" y2="256" stroke="#0891B2" stroke-opacity="0.35"/>
+<text x="470" y="272" font-size="16" fill="#C9D1E0" textLength="218.9" lengthAdjust="spacingAndGlyphs">C++ · Java · JS · Python · Ruby · Rust</text>
+<text x="694.9" y="272" font-size="16" fill="#0891B2" fill-opacity="0.5" letter-spacing="4">...................................................................</text>
+<text x="1158" y="272" text-anchor="end" font-size="16" fill="#5B6478">Core.Lang</text>
+<text x="470" y="294" font-size="16" fill="#C9D1E0" textLength="144.0" lengthAdjust="spacingAndGlyphs">HTML5 · CSS3 · JavaScript</text>
+<text x="620.0" y="294" font-size="16" fill="#0891B2" fill-opacity="0.5" letter-spacing="4">...........................................................................</text>
+<text x="1158" y="294" text-anchor="end" font-size="16" fill="#5B6478">Core.Frontend</text>
+<text x="470" y="316" font-size="16" fill="#C9D1E0" textLength="265.0" lengthAdjust="spacingAndGlyphs">ASP.NET · Laravel · Spring · ColdFusion · Node</text>
+<text x="741.0" y="316" font-size="16" fill="#0891B2" fill-opacity="0.5" letter-spacing="4">........................................................</text>
+<text x="1158" y="316" text-anchor="end" font-size="16" fill="#5B6478">Core.Backend</text>
+<text x="470" y="338" font-size="16" fill="#C9D1E0" textLength="86.4" lengthAdjust="spacingAndGlyphs">MySQL · MongoDB</text>
+<text x="562.4" y="338" font-size="16" fill="#0891B2" fill-opacity="0.5" letter-spacing="4">.....................................................................................</text>
+<text x="1158" y="338" text-anchor="end" font-size="16" fill="#5B6478">Core.Database</text>
+<text x="470" y="360" font-size="16" fill="#C9D1E0" textLength="34.6" lengthAdjust="spacingAndGlyphs">Docker</text>
+<text x="510.6" y="360" font-size="16" fill="#0891B2" fill-opacity="0.5" letter-spacing="4">................................................................................................</text>
+<text x="1158" y="360" text-anchor="end" font-size="16" fill="#5B6478">Core.Infra</text>
+  <text x="1158" y="392" text-anchor="end" font-size="14.5" fill="#22D3EE" letter-spacing="2" font-weight="600">CONTACT.GRID</text>
+<line x1="470" y1="400" x2="1158" y2="400" stroke="#0891B2" stroke-opacity="0.35"/>
+<text x="470" y="416" font-size="16" fill="#C9D1E0" textLength="172.8" lengthAdjust="spacingAndGlyphs">hussein.a.habeeb.sec@gmail.com</text>
+<text x="648.8" y="416" font-size="16" fill="#0891B2" fill-opacity="0.5" letter-spacing="4">..........................................................................</text>
+<text x="1158" y="416" text-anchor="end" font-size="16" fill="#5B6478">Grid.Mail</text>
+<text x="470" y="438" font-size="16" fill="#C9D1E0" textLength="63.4" lengthAdjust="spacingAndGlyphs">coming soon</text>
+<text x="539.4" y="438" font-size="16" fill="#0891B2" fill-opacity="0.5" letter-spacing="4">........................................................................................</text>
+<text x="1158" y="438" text-anchor="end" font-size="16" fill="#5B6478">Grid.Portfolio</text>
+<text x="470" y="460" font-size="16" fill="#C9D1E0" textLength="161.3" lengthAdjust="spacingAndGlyphs">/in/hussein-habeeb-93965b414</text>
+<text x="637.3" y="460" font-size="16" fill="#0891B2" fill-opacity="0.5" letter-spacing="4">........................................................................</text>
+<text x="1158" y="460" text-anchor="end" font-size="16" fill="#5B6478">Grid.LinkedIn</text>
+<text x="470" y="482" font-size="16" fill="#C9D1E0" textLength="80.6" lengthAdjust="spacingAndGlyphs">Hussein-Furaty</text>
+<text x="556.6" y="482" font-size="16" fill="#0891B2" fill-opacity="0.5" letter-spacing="4">........................................................................................</text>
+<text x="1158" y="482" text-anchor="end" font-size="16" fill="#5B6478">Grid.GitHub</text>
+<text x="470" y="504" font-size="16" fill="#C9D1E0" textLength="5.8" lengthAdjust="spacingAndGlyphs">—</text>
+<text x="481.8" y="504" font-size="16" fill="#0891B2" fill-opacity="0.5" letter-spacing="4">..................................................................................................</text>
+<text x="1158" y="504" text-anchor="end" font-size="16" fill="#5B6478">Grid.Facebook</text>
 
   <rect x="470" y="554" width="154" height="30" rx="15" fill="#10B981" fill-opacity="0.12" stroke="#10B981"/>
   <text x="487" y="574" font-size="13" fill="#10B981" font-weight="600">@Hussein-Furaty</text>
