@@ -3,19 +3,10 @@
 <picture>
   <img src="./assets/banner_dark.svg" alt="Hussein.A.Habeeb banner" width="100%"/>
 </picture>
-
-<br><br>
-
 [![Followers](https://img.shields.io/github/followers/Hussein-Furaty?style=flat-square&label=Followers&color=22D3EE&labelColor=0A101F)](https://github.com/Hussein-Furaty?tab=followers)
-
 ### *"One who lives forever, kills their own legacy."*
-
 </div>
-
-<br>
-
 ## Contribution Snake
-
 <div align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hussein-Furaty/Hussein-Furaty/output/github-contribution-grid-snake-dark.svg" />
@@ -25,53 +16,28 @@
 </div>
 
 <br>
-
 ## Tech Stack
-
 **Languages**
-
 <div align="center">
 <img src="https://skillicons.dev/icons?i=cpp,java,js,python,ruby,rust" />
 </div>
-
 **Frameworks & Tools**
-
 <div align="center">
 <img src="https://skillicons.dev/icons?i=dotnet,laravel,spring,nodejs,docker" />
 </div>
-
 <div align="center"><sub>Also working with: ColdFusion</sub></div>
-
 **Machine Learning & AI**
-
 <div align="center">
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" />
 </div>
-
 <br>
-
 ## GitHub Stats
-
 <div align="center">
-
 <img height="165" src="https://github-readme-stats-seven-lac-90.vercel.app/api?username=Hussein-Furaty&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0A101F&title_color=22D3EE&icon_color=22D3EE&text_color=C9D1E0&hide_rank=true" />
 <img height="165" src="https://github-readme-stats-seven-lac-90.vercel.app/api/top-langs/?username=Hussein-Furaty&layout=compact&theme=tokyonight&hide_border=true&bg_color=0A101F&title_color=22D3EE&langs_count=8" />
-
 <br>
-
 <img src="https://streak-stats.demolab.com/?user=Hussein-Furaty&theme=tokyonight&hide_border=true&background=0A101F&stroke=22D3EE&ring=A78BFA&fire=10B981&currStreakLabel=22D3EE" />
-
 </div>
-
-## Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Hussein-Furaty&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8" />
-
-</div>
-
-<br>
 
 ## Contribution Activity
 
