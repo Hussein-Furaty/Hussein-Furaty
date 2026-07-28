@@ -1,7 +1,7 @@
 <div align="center">
 
 <picture>
-  <img src="./assets/banner_dark.svg" alt="Hussein.A.Habeeb banner" width="100%"/>
+  <img src="./banner_dark.svg" alt="Hussein.A.Habeeb banner" width="100%"/>
 </picture>
 
 <br><br>
