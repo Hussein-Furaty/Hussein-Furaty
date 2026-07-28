@@ -1,7 +1,7 @@
 <div align="center">
 
 <picture>
-  <img src="./banner_dark.svg" alt="Hussein.A.Habeeb banner" width="100%"/>
+  <img src="./assets/banner_dark.svg" alt="Hussein.A.Habeeb banner" width="100%"/>
 </picture>
 
 <br><br>
@@ -14,14 +14,15 @@
 
 <br>
 
-## About Me
+## Contribution Snake
 
-- 🛡️ Cybersecurity specialist focused on building secure, resilient systems
-- 💻 Full-stack developer — web, Windows desktop, and mobile applications
-- 🌐 Server & network infrastructure administrator
-- 🤖 Working on Machine Learning & AI-driven security and research tools
-- 👨‍💼 Leading a technical development team (Crow-Developers)
-- 🎓 IT trainer, helping others grow into the field
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hussein-Furaty/Hussein-Furaty/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Hussein-Furaty/Hussein-Furaty/output/github-contribution-grid-snake.svg" />
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/Hussein-Furaty/Hussein-Furaty/output/github-contribution-grid-snake.svg" width="100%"/>
+</picture>
+</div>
 
 <br>
 
