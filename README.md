@@ -1,20 +1,26 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Hussein.A.Habeeb&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Cybersecurity%20Specialist%20%7C%20Full-Stack%20Developer%20%7C%20IT%20Team%20Lead&descAlignY=58&descSize=17" width="100%"/>
+<picture>
+  <img src="./assets/banner_dark.svg" alt="Hussein.A.Habeeb banner" width="100%"/>
+</picture>
 
-📍 Al-Musayib, Babylon, Iraq &nbsp;|&nbsp; 🏢 Crow-Developers &nbsp;|&nbsp; he/him
+<br><br>
 
-[![Followers](https://img.shields.io/github/followers/Hussein-Furaty?style=flat-square&label=Followers&color=58A6FF&labelColor=0d1117)](https://github.com/Hussein-Furaty?tab=followers)
+[![Followers](https://img.shields.io/github/followers/Hussein-Furaty?style=flat-square&label=Followers&color=22D3EE&labelColor=0A101F)](https://github.com/Hussein-Furaty?tab=followers)
+
 ### *"One who lives forever, kills their own legacy."*
-<br>
+
 </div>
+
+<br>
+
 ## About Me
 
 - 🛡️ Cybersecurity specialist focused on building secure, resilient systems
 - 💻 Full-stack developer — web, Windows desktop, and mobile applications
 - 🌐 Server & network infrastructure administrator
 - 🤖 Working on Machine Learning & AI-driven security and research tools
-- 👨‍💼 Leading a technical development team
+- 👨‍💼 Leading a technical development team (Crow-Developers)
 - 🎓 IT trainer, helping others grow into the field
 
 <br>
@@ -47,25 +53,32 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Hussein-Furaty&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hussein-Furaty&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF&langs_count=8" />
+<img height="165" src="https://github-readme-stats-seven-lac-90.vercel.app/api?username=Hussein-Furaty&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0A101F&title_color=22D3EE&icon_color=22D3EE&text_color=C9D1E0&hide_rank=true" />
+<img height="165" src="https://github-readme-stats-seven-lac-90.vercel.app/api/top-langs/?username=Hussein-Furaty&layout=compact&theme=tokyonight&hide_border=true&bg_color=0A101F&title_color=22D3EE&langs_count=8" />
 
 <br>
 
-<img src="https://streak-stats.demolab.com/?user=Hussein-Furaty&theme=tokyonight&hide_border=true&background=0d1117&stroke=58A6FF&ring=58A6FF&fire=1f6feb&currStreakLabel=58A6FF" />
+<img src="https://streak-stats.demolab.com/?user=Hussein-Furaty&theme=tokyonight&hide_border=true&background=0A101F&stroke=22D3EE&ring=A78BFA&fire=10B981&currStreakLabel=22D3EE" />
 
 </div>
 
+## Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Hussein-Furaty&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8" />
+
+</div>
 
 <br>
 
 ## Contribution Activity
+
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Hussein-Furaty&theme=react-dark&bg_color=0d1117&color=58A6FF&line=58A6FF&point=ffffff&area=true&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Hussein-Furaty&theme=react-dark&bg_color=0A101F&color=22D3EE&line=22D3EE&point=ffffff&area=true&hide_border=true" width="100%"/>
 
 </div>
-
 
 <br>
 
@@ -89,10 +102,10 @@
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=Hussein-Furaty&label=Profile%20Views&color=58A6FF&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=Hussein-Furaty&label=Profile%20Views&color=22D3EE&style=flat-square)
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=110&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0A101F&height=110&section=footer" width="100%"/>
 
 </div>
