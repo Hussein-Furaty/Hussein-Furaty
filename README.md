@@ -1,53 +1,25 @@
-<div align="center">
-
-<picture>
-  <img src="./assets/banner_dark.svg" alt="Hussein.A.Habeeb — animated banner" width="100%"/>
-</picture>
 
 <sub>*"One who lives forever, kills their own legacy."*</sub>
-
-</div>
-
 <br>
-
-## About Me
-
-- Cybersecurity specialist focused on building secure, resilient systems
-- Full-stack developer — web, Windows desktop, and mobile applications
-- Server & network infrastructure administrator
-- Working on Machine Learning & AI-driven security and research tools
-- Leading a technical development team — **Crow-Developers**
-- IT trainer, helping others grow into the field
-
 <br>
-
 ## Tech Stack
-
 <table align="center">
 <tr>
-<td align="right"><sub><b>Languages</b></sub></td>
 <td><img src="https://skillicons.dev/icons?i=cpp,java,js,python,ruby,rust" /></td>
 </tr>
 <tr>
-<td align="right"><sub><b>Frameworks</b></sub></td>
 <td><img src="https://skillicons.dev/icons?i=dotnet,laravel,spring,nodejs,docker" /></td>
 </tr>
 <tr>
-<td align="right"><sub><b>AI / ML</b></sub></td>
 <td><img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" /></td>
 </tr>
 <tr>
-<td align="right"><sub><b>Also using</b></sub></td>
 <td><sub>ColdFusion</sub></td>
 </tr>
 </table>
-
 <br>
 
-## GitHub Stats
-
 <div align="center">
-
 <img height="165" src="https://github-readme-stats-seven-lac-90.vercel.app/api?username=Hussein-Furaty&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0A101F&title_color=22D3EE&icon_color=22D3EE&text_color=C9D1E0&hide_rank=true" />
 <img height="165" src="https://github-readme-stats-seven-lac-90.vercel.app/api/top-langs/?username=Hussein-Furaty&layout=compact&theme=tokyonight&hide_border=true&bg_color=0A101F&title_color=22D3EE&langs_count=8" />
 
