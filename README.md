@@ -1,6 +1,5 @@
 
 <h1 align="center">One who lives forever, kills their own legacy</h1>
-<br>
 
 
 <div align="center">
@@ -11,13 +10,9 @@
 </picture>
 </div>
 
-<br>
-
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hussein-Furaty&theme=react-dark&bg_color=0A101F&color=22D3EE&line=22D3EE&point=ffffff&area=true&hide_border=true" width="100%"/>
 </div>
-
-<br>
 
 <table align="center" width="200px">
 <tr>
