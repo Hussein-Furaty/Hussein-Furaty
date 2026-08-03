@@ -22,7 +22,7 @@
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hussein-Furaty&theme=react-dark&bg_color=0A101F&color=22D3EE&line=22D3EE&point=ffffff&area=true&hide_border=true" width="100%"/>
 </div>
-
+<hr>
 <table align="center">
 <tr>
 <td><img src="https://skillicons.dev/icons?i=cpp,java,js,python,ruby,rust" /></td>
