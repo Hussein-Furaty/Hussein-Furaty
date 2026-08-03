@@ -3,7 +3,7 @@
 <br>
 <br>
 ## Tech Stack
-<table align="center">
+<table align="center" width="100%">
 <tr>
 <td><img src="https://skillicons.dev/icons?i=cpp,java,js,python,ruby,rust" /></td>
 </tr>
@@ -27,15 +27,11 @@
 
 <br>
 
-## Contribution Activity
-
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hussein-Furaty&theme=react-dark&bg_color=0A101F&color=22D3EE&line=22D3EE&point=ffffff&area=true&hide_border=true" width="100%"/>
 </div>
 
 <br>
-
-## Contribution Snake
 
 <div align="center">
 <picture>
