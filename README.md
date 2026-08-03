@@ -1,6 +1,15 @@
 
 <h1 align="center">One who lives forever, kills their own legacy</h1>
 
+<div align="center">
+<img src="https://streak-stats.demolab.com/?user=Hussein-Furaty&theme=tokyonight&hide_border=true&background=0A101F&stroke=22D3EE&ring=A78BFA&fire=10B981&currStreakLabel=22D3EE" />
+<br>
+  
+<img height="165" src="https://github-readme-stats-seven-lac-90.vercel.app/api?username=Hussein-Furaty&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0A101F&title_color=22D3EE&icon_color=22D3EE&text_color=C9D1E0&hide_rank=true" />
+<img height="165" src="https://github-readme-stats-seven-lac-90.vercel.app/api/top-langs/?username=Hussein-Furaty&layout=compact&theme=tokyonight&hide_border=true&bg_color=0A101F&title_color=22D3EE&langs_count=8" />
+
+<br>
+</div>
 
 <div align="center">
 <picture>
@@ -14,7 +23,7 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hussein-Furaty&theme=react-dark&bg_color=0A101F&color=22D3EE&line=22D3EE&point=ffffff&area=true&hide_border=true" width="100%"/>
 </div>
 
-<table align="center" width="200px">
+<table align="center">
 <tr>
 <td><img src="https://skillicons.dev/icons?i=cpp,java,js,python,ruby,rust" /></td>
 </tr>
@@ -25,17 +34,6 @@
 <td><img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" /></td>
 </tr>
 </table>
-<br>
-<div align="center">
-<img height="165" src="https://github-readme-stats-seven-lac-90.vercel.app/api?username=Hussein-Furaty&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0A101F&title_color=22D3EE&icon_color=22D3EE&text_color=C9D1E0&hide_rank=true" />
-<img height="165" src="https://github-readme-stats-seven-lac-90.vercel.app/api/top-langs/?username=Hussein-Furaty&layout=compact&theme=tokyonight&hide_border=true&bg_color=0A101F&title_color=22D3EE&langs_count=8" />
-
-<br>
-
-<img src="https://streak-stats.demolab.com/?user=Hussein-Furaty&theme=tokyonight&hide_border=true&background=0A101F&stroke=22D3EE&ring=A78BFA&fire=10B981&currStreakLabel=22D3EE" />
-
-</div>
-
 <br>
 
 ## Connect With Me
