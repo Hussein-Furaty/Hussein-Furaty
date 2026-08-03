@@ -1,5 +1,5 @@
 
-<sub>*"One who lives forever, kills their own legacy."*</sub>
+<h1 align="center">*"One who lives forever, kills their own legacy."*</h1>
 <br>
 <br>
 ## Tech Stack
