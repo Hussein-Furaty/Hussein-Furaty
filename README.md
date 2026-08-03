@@ -1,6 +1,14 @@
 
 <h1 align="center">One who lives forever, kills their own legacy</h1>
 <br>
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hussein-Furaty/Hussein-Furaty/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Hussein-Furaty/Hussein-Furaty/output/github-contribution-grid-snake.svg" />
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/Hussein-Furaty/Hussein-Furaty/output/github-contribution-grid-snake.svg" width="100%"/>
+</picture>
+</div>
+
 <br>
 
 <table align="center" width="200px">
@@ -29,16 +37,6 @@
 
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hussein-Furaty&theme=react-dark&bg_color=0A101F&color=22D3EE&line=22D3EE&point=ffffff&area=true&hide_border=true" width="100%"/>
-</div>
-
-<br>
-
-<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hussein-Furaty/Hussein-Furaty/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Hussein-Furaty/Hussein-Furaty/output/github-contribution-grid-snake.svg" />
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/Hussein-Furaty/Hussein-Furaty/output/github-contribution-grid-snake.svg" width="100%"/>
-</picture>
 </div>
 
 <br>
