@@ -2,8 +2,8 @@
 <h1 align="center">One who lives forever, kills their own legacy</h1>
 <br>
 <br>
-## Tech Stack
-<table align="center" width="100%">
+
+<table align="center" width="200px">
 <tr>
 <td><img src="https://skillicons.dev/icons?i=cpp,java,js,python,ruby,rust" /></td>
 </tr>
