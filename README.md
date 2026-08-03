@@ -1,5 +1,5 @@
 
-<h1 align="center">*"One who lives forever, kills their own legacy."*</h1>
+<h1 align="center">One who lives forever, kills their own legacy</h1>
 <br>
 <br>
 ## Tech Stack
@@ -13,12 +13,8 @@
 <tr>
 <td><img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" /></td>
 </tr>
-<tr>
-<td><sub>ColdFusion</sub></td>
-</tr>
 </table>
 <br>
-
 <div align="center">
 <img height="165" src="https://github-readme-stats-seven-lac-90.vercel.app/api?username=Hussein-Furaty&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0A101F&title_color=22D3EE&icon_color=22D3EE&text_color=C9D1E0&hide_rank=true" />
 <img height="165" src="https://github-readme-stats-seven-lac-90.vercel.app/api/top-langs/?username=Hussein-Furaty&layout=compact&theme=tokyonight&hide_border=true&bg_color=0A101F&title_color=22D3EE&langs_count=8" />
